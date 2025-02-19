@@ -134,3 +134,11 @@ body {
   transition: all 0.5s ease-in;
   font-size: 12px;
 }
+
+p {
+  color: gray;
+  font-size: 7px;
+  font-family: 'Smooch Sans', sans-serif;
+  letter-spacing: 0.5px;
+                                            
+}
